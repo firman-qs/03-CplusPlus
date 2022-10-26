@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    // Tipe data Integer    
+    // Tipe data Integer
     cout << "========= INTEGER =========" << endl;
     int a = 1;
     cout << "size \t : " << sizeof(a) << " byte" << endl;
@@ -49,7 +49,7 @@ int main()
 
     // Tipe data char
     cout << "\n========= CHAR =========" << endl;
-    char g = 'c';
+    char g = 'z';
     cout << g << endl;
     cout << "size \t : " << sizeof(g) << " byte" << endl;
     cout << "max \t : " << numeric_limits<char>::max() << endl;
