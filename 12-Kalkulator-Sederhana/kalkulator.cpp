@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	float a, b, hasil = 00000000000000000000000000000000000;
+	float a, b, hasil = 0;
 	char operasi;
 
 	cout << "\nSelamat Datang di Kalkulator" << endl;
@@ -18,17 +18,21 @@ int main()
 	if (operasi == '+')
 	{
 		hasil = a + b;
-	} else if (operasi == '-')
+	}
+	else if (operasi == '-')
 	{
 		hasil = a - b;
-	} else if (operasi == '*')
+	}
+	else if (operasi == '*')
 	{
 		hasil = a * b;
-	} else if (operasi == '/')
+	}
+	else if (operasi == '/')
 	{
 		hasil = a / b;
-	} else
-	{	
+	}
+	else
+	{
 		cout << "Tidak diketahui (Operator anda Salah)" << endl;
 	}
 
