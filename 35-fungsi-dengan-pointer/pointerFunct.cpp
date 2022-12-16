@@ -4,7 +4,7 @@ using namespace std;
 void fungsi(int *);
 void kuadrat(int *);
 
-int main()
+int main() 
 {
 	int a = 10;
 	cout << "  Nilai dari a : " << a << endl;
