@@ -11,15 +11,15 @@ int main() {
 	cout << "adress dari a = " << &a << endl << endl;
 
 	int &b = a;
-	cout << " nilai dari b = " << a << endl;
-	cout << "adress dari b = " << &a << endl << endl;
+	cout << " nilai dari b = " << b << endl;
+	cout << "adress dari b = " << &b << endl << endl;
 
 	a = 12;
 	cout << " nilai dari a = " << a << endl;
-	cout << " nilai dari b = " << a << endl << endl;
+	cout << " nilai dari b = " << b << endl << endl;
 
 	b = 9;
 	cout << " nilai dari a = " << a << endl;
-	cout << " nilai dari b = " << a << endl;
+	cout << " nilai dari b = " << b << endl;
 	return 0;
 }

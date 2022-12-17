@@ -10,6 +10,7 @@ int main() {
     kuadrat(a);
     cout << "kuadrat dari a adalah \t\t: " << a << endl;
     cout << "adress dari kuadrat a adalah \t: " << &a << endl;
+    cout << "Nilai a adalah \t\t\t: " << a << endl;
 
     /* code */
     return 0;
