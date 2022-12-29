@@ -8,3 +8,4 @@ g++
 1. Font: Jetbrains Mono [www.jetbrains.com/lp/mono]
 2. Theme: One Dark Pro [https://github.com/Binaryify/OneDark-Pro], vscode dark+, Night Owl [https://github.com/sdras/night-owl-vscode-theme]
 
+# Will be continued after in my next semester holiday 2023 😊, miss u c++
