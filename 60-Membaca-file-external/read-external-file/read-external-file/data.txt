@@ -1,0 +1,10 @@
+ini adalah data baris pertama.
+ini adalah data baris kedua
+
+data saya
+No.	Nama
+1.	Mirana
+2.	Dark Seer
+3.	Leshrac
+4.	Furion
+5.	Shadow Fiend
